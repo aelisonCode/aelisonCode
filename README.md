@@ -1,37 +1,35 @@
-<br clear="both">
+<h1 align="center">Salut, moi c’est Arnaud 👋</h1>
 
-<h1 align="center">Hello there</h1>
+<p align="center">
+  Étudiant à <strong>42 Antananarivo</strong> | Passionné de code  
+</p>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
 
-<p align="left">I am Arnaud, nice to meet you here, here are some of my skills</p>
+---
 
-###
+### 🔧 À propos de moi
 
-<br clear="both">
+- 🎓 Étudiant chez **42 Antananarivo**
+- 💻 Codeur : C, C++, Python *(en cours)*, GDScript
+- 🛠️ J’utilise **Vim** / **Neovim** + **Git** pour coder avec efficacité
+- 🎮 J’explore le **développement de jeux** avec **Godot Engine**
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="37" alt="c logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="37" alt="cplusplus logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="37" alt="vim logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/neovim/57A143" height="37" alt="neovim logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="37" alt="git logo"  />
-</div>
+---
 
-###
+### 🚀 Ce que je construis actuellement
 
-<br clear="both">
+- 🎮 **Prototype de jeu avec Godot** — gameplay & architecture orientée objets
+- 🧪 **Scripts Python** pour automatiser, apprendre et m'amuser
 
-<img src="https://raw.githubusercontent.com/aelisonCode/aelisonCode/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aelisonCode/count.svg?"  />
-</div>
-
-###
+---
