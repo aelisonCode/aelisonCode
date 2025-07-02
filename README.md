@@ -1,35 +1,66 @@
-<h1 align="center">Salut, moi c’est Arnaud 👋</h1>
+<h1 align="center">Hi, I'm Arnaud 👋</h1>
 
 <p align="center">
-  Étudiant à <strong>42 Antananarivo</strong> | Passionné de code  
+  💻 Passionate C programmer | 🎮 Aspiring game developer | 🚀 Always learning  
+  <br>📍 Based in Madagascar | 🎓 Student at <strong>42 Antananarivo</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-### 🔧 À propos de moi
+### 🔧 About Me
 
-- 🎓 Étudiant chez **42 Antananarivo**
-- 💻 Codeur : C, C++, Python *(en cours)*, GDScript
-- 🛠️ J’utilise **Vim** / **Neovim** + **Git** pour coder avec efficacité
-- 🎮 J’explore le **développement de jeux** avec **Godot Engine**
+- 🎓 I'm currently a student at **42 Antananarivo**
+- 🔤 I code mainly in **C**, **C++**, and am learning **Python** and **GDScript**
+- 🛠️ I enjoy working in **Vim/Neovim** and love building tools using **Git**, **Docker**, and automation scripts
+- 🎮 I'm exploring **Godot Engine** to create my own games — combining creativity & code
+
+---
+
+### 🚧 Current Projects
+
+- 🎮 **Game prototype** — built with Godot, object-oriented design, gameplay scripting
+- 🧪 **Automation with Python** — CLI tools and scripts for learning + productivity
 
 ---
 
-### 🚀 Ce que je construis actuellement
+### 📈 GitHub Stats
 
-- 🎮 **Prototype de jeu avec Godot** — gameplay & architecture orientée objets
-- 🧪 **Scripts Python** pour automatiser, apprendre et m'amuser
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aelisonCode&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelisonCode&layout=compact&theme=radical" height="160" />
+</p>
 
 ---
+
+### 🌟 Fun Stuff
+
+- 🎯 Constantly sharpening my skills through projects and 42 challenges
+- 🧠 Learning never ends — each bug is a new puzzle
+
+---
+
+### 🤝 Get in Touch
+
+<p align="center">
+  <a href="https://github.com/aelisonCode">
+    <img src="https://img.shields.io/badge/GitHub-aelisonCode-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
