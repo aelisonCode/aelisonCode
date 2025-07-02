@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -23,8 +23,8 @@
 
 - 🎓 I'm currently a student at **42 Antananarivo**
 - 🔤 I code mainly in **C**, **C++**, and am learning **Python** and **GDScript**
-- 🛠️ I enjoy working in **Vim/Neovim** and love building tools using **Git**, **Docker**, and automation scripts
-- 🎮 I'm exploring **Godot Engine** to create my own games — combining creativity & code
+- 🛠️ I enjoy working in **Vim/Neovim** and love building tools using **Git**
+- 🎮 I'm exploring **Godot Engine** to create my own games
 
 ---
 
