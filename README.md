@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arnaud 👋</h1>
 
 <p align="center">
-  💻 Passionate C programmer | 🎮 Aspiring game developer | 🚀 Always learning  
+  💻 Passionate programmer | 🎮 Aspiring game developer | 🚀 Always learning  
   <br>📍 Based in Madagascar | 🎓 Student at <strong>42 Antananarivo</strong>
 </p>
 
@@ -31,7 +31,7 @@
 ### 🚧 Current Projects
 
 - 🎮 **Game prototype** — built with Godot, object-oriented design, gameplay scripting
-- 🧪 **Automation with Python** — CLI tools and scripts for learning + productivity
+- 🧪 **Basics of Python** — discovering the language
 
 ---
 
@@ -44,12 +44,6 @@
 
 ---
 
-### 🌟 Fun Stuff
-
-- 🎯 Constantly sharpening my skills through projects and 42 challenges
-- 🧠 Learning never ends — each bug is a new puzzle
-
----
 
 ### 🤝 Get in Touch
 
