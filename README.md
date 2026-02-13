@@ -21,7 +21,7 @@
 
 ### 🔧 About Me
 
-- 🎓 I'm currently at my final years of Common Core at **42 Antananarivo**
+- 🎓 I'm currently at my final years of Common Core at **42 Antananarivo school**
 - 🔤 I code mainly in **C**, **C++**, and am learning **Python** and **GDScript**
 - 🛠️ I enjoy working in **Vim/Neovim** and love building tools using **Git**
 - 🎮 I'm exploring **Godot Engine** to create my own games
@@ -34,16 +34,6 @@
 - 🧪 **Basics of Python** — discovering the language
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aelisonCode&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelisonCode&layout=compact&theme=radical" height="160" />
-</p>
-
----
-
 
 ### 🤝 Get in Touch
 
