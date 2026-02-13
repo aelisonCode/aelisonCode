@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arnaud 👋</h1>
 
 <p align="center">
-  💻 Passionate programmer | 🎮 Aspiring game developer | 🚀 Always learning  
+  💻 Passionate programmer | 🎮 Passionate in game developement | 🚀 Always learning  
   <br>📍 Based in Madagascar | 🎓 Student at <strong>42 Antananarivo</strong>
 </p>
 
@@ -21,7 +21,7 @@
 
 ### 🔧 About Me
 
-- 🎓 I'm currently a student at **42 Antananarivo**
+- 🎓 I'm currently at my final years of Common Core at **42 Antananarivo**
 - 🔤 I code mainly in **C**, **C++**, and am learning **Python** and **GDScript**
 - 🛠️ I enjoy working in **Vim/Neovim** and love building tools using **Git**
 - 🎮 I'm exploring **Godot Engine** to create my own games
