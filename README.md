@@ -21,17 +21,17 @@
 
 ### 🔧 About Me
 
-- 🎓 I'm currently at my final years of Common Core at **42 Antananarivo school**
-- 🔤 I code mainly in **C**, **C++**, and am learning **Python** and **GDScript**
-- 🛠️ I enjoy working in **Vim/Neovim** and love building tools using **Git**
+- 🎓 I'm currently in specialization cybersecurity at **42 Antananarivo school**
+- 🔤 I code mainly in **C**, **C++**, and am learning **Python**, **GDScript**, **Assembly**
+- 🛠️ I enjoy working in **Vim/Neovim** and building tools using **Git**
 - 🎮 I'm exploring **Godot Engine** to create my own games
 
 ---
 
 ### 🚧 Current Projects
 
-- 🎮 **Game prototype** — built with Godot, object-oriented design, gameplay scripting
-- 🧪 **Basics of Python** — discovering the language
+- **Game prototype** — built with Godot, object-oriented design, gameplay scripting
+- **Basics of Assembly** - Trying to understand assembly and code what I learned
 
 ---
 
