@@ -42,6 +42,9 @@
   <a href="https://github.com/aelisonCode">
     <img src="https://img.shields.io/badge/GitHub-aelisonCode-181717?style=for-the-badge&logo=github"/>
   </a>
+  <a href="https://www.linkedin.com/in/aelisoncode">
+    <img src="https://img.shields.io/badge/LinkedIn-Your_Name-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
