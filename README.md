@@ -39,11 +39,9 @@
 ### 🤝 Get in Touch
 <p align="center">
   <a href="https://github.com/aelisonCode">
-    <img src="https://img.shields.io/badge/GitHub-aelisonCode-181717?style=social&logo=github"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/aelisoncode">
-    <img src="https://img.shields.io/badge/LinkedIn-Arnaud-0077B5?style=social&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/GitHub-aelisonCode-24292e?style=flat&logo=github"/></a>
+  &nbsp;&nbsp; <a href="https://www.linkedin.com/in/aelisoncode">
+    <img src="https://img.shields.io/badge/LinkedIn-Arnaud_Elison-0077B5?style=flat&logo=linkedin"/>
   </a>
 </p>
 
