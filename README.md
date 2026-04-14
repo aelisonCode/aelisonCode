@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arnaud 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=478CBF&center=true&vCenter=true&width=500&lines=Hello+there,+need+some+help?👀;I+like+cacahuetes;Aspiring+Game+Developer🎮+;In+Specialization+at+42+Antananarivo🎯" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&duration=3000&color=478CBF&center=true&vCenter=true&width=1000&lines=Hello+there,+need+some+help?;I+like+cacahuetes;Aspiring+Game+Developer;Currently+in+Specialization+at+42+Antananarivo" alt="Typing SVG" />
 </p>
 
 <p align="center">
