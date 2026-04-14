@@ -37,20 +37,17 @@
 - **Game Prototype** — Focusing on object-oriented design and custom gameplay scripting in Godot.
 - **Learning Rust** — Exploring memory safety and systems-level performance.
 - **Learning Blender** — Exploring blender tools to create 3D objects
-
+  
 ---
+
 
 ### 🤝 Get in Touch
 <p align="center">
-  <a href="https://github.com/aelisonCode">
-    <img src="https://img.shields.io/badge/GitHub-aelisonCode-24292e?style=flat&logo=github"/>
-  </a>
-  &nbsp;&nbsp; 
+  <a href="https://github.com/aelisonCode"><img src="https://img.shields.io/badge/GitHub-aelisonCode-24292e?style=flat&logo=github"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aelisoncode">
     <img src="https://img.shields.io/badge/LinkedIn-Arnaud_Elison-0077B5?style=flat&logo=linkedin"/>
   </a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
