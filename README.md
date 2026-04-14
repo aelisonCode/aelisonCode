@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Arnaud 👋</h1>
 
 <p align="center">
-  💻 Passionate programmer | 🎮 Passionate in game developement | 🚀 Always learning  
-  <br>📍 Based in Madagascar | 🎓 Student at <strong>42 Antananarivo</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=478CBF&center=true&vCenter=true&width=500&lines=Hello+there,+need+some+help?👀;I+like+cacahuetes;Aspiring+Game+Developer🎮+;In+Specialization+at+42+Antananarivo🎯" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  📍 Based in Madagascar | 🎓 Student at <strong>42 Antananarivo</strong>
 </p>
 
 <p align="center">
@@ -22,36 +25,31 @@
 
 ### 🔧 About Me
 
-- 🎓 I'm currently in specialization cybersecurity, game dev at **42 Antananarivo school**
-- 🔤 I code mainly in **C++**, **Python** and am learning **GDScript**, **Rust**
-- 🛠️ I enjoy working in **Vim/Neovim** and building tools using **Git**
-- 🎮 I'm exploring **Godot Engine** to create my own games
-
+- 🎓 I'm currently specializing in **Cybersecurity** and **Game Dev** at 42 Antananarivo.
+- 🔤 I mainly code in **C++** and **Python**. I'm currently exploring **GDScript** and **Rust**.
+- 🛠️ My workflow lives in **Neovim**, take a look at my configurations.
+- 🎮 I'm using **Godot Engine** to creates some games.
+  
 ---
 
 ### 🚧 Current Projects
 
-- **Game prototype** — built with Godot, object-oriented design, gameplay scripting
-- **Learning Rust** - Discovering rust language
+- **Game Prototype** — Focusing on object-oriented design and custom gameplay scripting in Godot.
+- **Learning Rust** — Exploring memory safety and systems-level performance.
+- **Learning Blender** — Exploring blender tools to create 3D objects
 
 ---
 
 ### 🤝 Get in Touch
 <p align="center">
   <a href="https://github.com/aelisonCode">
-    <img src="https://img.shields.io/badge/GitHub-aelisonCode-24292e?style=flat&logo=github"/></a>
-  &nbsp;&nbsp; <a href="https://www.linkedin.com/in/aelisoncode">
+    <img src="https://img.shields.io/badge/GitHub-aelisonCode-24292e?style=flat&logo=github"/>
+  </a>
+  &nbsp;&nbsp; 
+  <a href="https://www.linkedin.com/in/aelisoncode">
     <img src="https://img.shields.io/badge/LinkedIn-Arnaud_Elison-0077B5?style=flat&logo=linkedin"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aelisonCode&show_icons=true&theme=radical" alt="Arnaud's GitHub stats" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
